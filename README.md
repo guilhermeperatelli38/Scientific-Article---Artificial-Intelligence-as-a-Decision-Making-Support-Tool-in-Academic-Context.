@@ -52,7 +52,7 @@ O uso recorrente e acrítico da IA pode comprometer a autonomia cognitiva dos us
 
 ## 📄 Arquivo
 
-- [`Artigo_científico_-_Inteligência_artificial.pdf`](./Artigo_científico_-_Inteligência_artificial.pdf) — artigo completo
+- [`Artigo_científico_-_Inteligência_artificial.pdf`](https://github.com/guilhermeperatelli38/Scientific-Article---Artificial-Intelligence-as-a-Decision-Making-Support-Tool-in-Academic-Context./blob/main/Artigo%20cient%C3%ADfico%20-%20Intelig%C3%AAncia%20artificial%20(3).pdf) — artigo completo
 
 ## 📚 Principais Referências
 
